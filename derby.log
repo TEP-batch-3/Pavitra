@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 02 21:30:11 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-89af-f083-000007512560 
+on database directory C:\Users\PAVITRA\Desktop\wwww\newww\qdatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6d311334 
+Loaded from file:/C:/Users/PAVITRA/Desktop/wwww/newww/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\PAVITRA\Desktop\wwww\newww
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
